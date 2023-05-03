@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.yedam.quiz;
 
 import java.util.concurrent.TimeUnit;
 import org.springframework.http.CacheControl;
